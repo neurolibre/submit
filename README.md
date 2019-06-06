@@ -14,7 +14,7 @@
 #### Data
 Getting your data on neurolibre is still in development, please try light data. If you have troubles or you want to push your own data, please post an issue.
 
-#TO DO
+# TO DO
 * Continuous build using circle ci to trigger a push on neurolibre organization
 * Automatic build from notebook to jupyter book
 * Cookie cutter template for the user
