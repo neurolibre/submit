@@ -1,6 +1,19 @@
-# How to submit on neurolibre ?
+# What is NeuroLibre?
 
-### Python
+Neurolibre is a curated repository of interactive neuroscience notebooks, seamlessly integrating data, text, code and figures. Notebooks can be freely modified and re-executed through the web, offering a fully reproducible, “libre” path from data to figures. Neurolibre is powered by the Binder project, with computational resources provided by [CONP](http://conp.ca/), [CBRAIN](http://mcin.ca/technology/cbrain/) and [Compute Canada]().
+
+# What can be published on NeuroLibre?
+
+NeuroLibre currently welcomes submissions along two tracks:
+ - **Tutorial** notebooks related to a workshop.
+ - **Companion** notebooks for articles posted as preprints.
+These workshops Notebooks are typically expected to use less than 100 GB, and run in less of an hour, although exceptions may be granted on a case by case basis. 
+
+# How are NeuroLibre submissions reviewed?
+
+They are not, in the sense of a traditional peer-reviewed publication. The NeuroLibre team does check that the notebooks run correctly, and also checks how much compute time and data storage are required. NeuroLibre commits to provide computational resources for free, yet this investment needs to benefit the Open NeuroScience community. The Neurolibre team reserves the right of rejecting a submission if the content of the notebook is judged to fall outside Neuroscience, requires excessive resources for the proposed scope of work, or is of obvious unsufficient quality.
+
+# How to submit?
 
 1. Create a public repository on github which will hold the files
 2. Write a notebook `.ipynb` containing all your work
@@ -8,18 +21,10 @@
 4. Add a data_requirement file containing the data dependencies if needed.
 5. Go to https://binder.conp.cloud.
 6. Fill the repository name and save the given URL. This will be used to share your binder notebooks with others.
-7. Click on upload and wait for the build.
-8. If your notebooks are working, you are ready to publish on the neurolibre website! Just make a pull request to fork your repo on https://github.com/neurolibre
+7. Click on upload and wait for the build. If your notebooks are working, you are ready to publish on the neurolibre website! 8. Create an issue on this repository, using the "submission" template, and fill in all the information. 
+9. Our team will fork your repository on https://github.com/neurolibre. We will test that everything is working, and contact you using your github handle for any issue we identify. The issues will be open on our fork of the repo, and you will be expected to submit pull request to this fork to address any issue.
+10. Once all issues have been addressed, the repository will be published on [NeuroLibre website](http://neurolibre.conp.ca), and associated with a unique URL that can be shared publically.
  
-#### Data
-Getting your data on neurolibre is still in development, please try light data. If you have troubles or you want to push your own data, please post an issue.
-
-# TO DO
-* Test server for the user, official https://binder.conp.cloud should not be accessible by the user but by admins after peer-review and conitnuous integration
-* Continuous build using circle ci to trigger a push on neurolibre organization
-* Automatic html conversion from notebook to jupyter book
-* Cookie cutter template for the user
-
-#### Example
-https://github.com/ltetrel/binder-tuto
-https://github.com/ltetrel/repo2data-caching-s3
+# Examples of neurolibre-ready repositories
+ * https://github.com/ltetrel/binder-tuto
+ * https://github.com/ltetrel/repo2data-caching-s3
