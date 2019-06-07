@@ -5,13 +5,13 @@ Neurolibre is a curated repository of interactive neuroscience notebooks, seamle
 # What can be published on NeuroLibre?
 
 NeuroLibre currently welcomes submissions along two tracks:
- - **Tutorial** notebooks related to a workshop.
- - **Companion** notebooks for articles posted as preprints.
+ - **Tutorial** notebooks related to a workshop in the neuroscience field.
+ - **Companion** notebooks for articles posted as preprints in the neuroscience field.
 These workshops Notebooks are typically expected to use less than 100 GB, and run in less of an hour, although exceptions may be granted on a case by case basis. 
 
 # How are NeuroLibre submissions reviewed?
 
-They are not, in the sense of a traditional peer-reviewed publication. The NeuroLibre team does check that the notebooks run correctly, and also checks how much compute time and data storage are required. NeuroLibre commits to provide computational resources for free, yet this investment needs to benefit the Open NeuroScience community. The Neurolibre team reserves the right of rejecting a submission if the content of the notebook is judged to fall outside Neuroscience, requires excessive resources for the proposed scope of work, or is of obvious unsufficient quality.
+They are not, in the sense of a traditional peer-reviewed publication. The NeuroLibre team does check that the notebooks run correctly, and also checks how much compute time and data storage are required. They also check that the submission fits one of the two tracks above. NeuroLibre commits to provide computational resources for free, yet this investment needs to benefit the Open NeuroScience community. The Neurolibre team reserves the right of rejecting a submission if the content of the notebook is judged to fall outside Neuroscience, requires excessive resources for the proposed scope of work, or is of obvious unsufficient quality.
 
 # How to submit?
 
