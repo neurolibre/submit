@@ -15,8 +15,9 @@
 Getting your data on neurolibre is still in development, please try light data. If you have troubles or you want to push your own data, please post an issue.
 
 # TO DO
+* Test server for the user, official https://binder.conp.cloud should not be accessible by the user but by admins after peer-review and conitnuous integration
 * Continuous build using circle ci to trigger a push on neurolibre organization
-* Automatic build from notebook to jupyter book
+* Automatic html conversion from notebook to jupyter book
 * Cookie cutter template for the user
 
 #### Example
