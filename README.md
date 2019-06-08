@@ -21,7 +21,7 @@ They are not, in the sense of a traditional peer-reviewed publication. The Neuro
 4. Add a data_requirement file containing the data dependencies if needed.
 5. Go to https://binder.conp.cloud.
 6. Fill the repository name and save the given URL. This will be used to share your binder notebooks with others.
-7. Click on upload and wait for the build. If your notebooks are working, you are ready to publish on the neurolibre website! 8. Create an issue on this repository, using the "submission" template, and fill in all the information. 
+7. Click on `launch` and wait for the build. If your notebooks are working, you are ready to publish on the neurolibre website! 8. Create an issue on this repository, using the "submission" template, and fill in all the information. 
 9. Our team will fork your repository on https://github.com/neurolibre. We will test that everything is working, and contact you using your github handle for any issue we identify. The issues will be open on our fork of the repo, and you will be expected to submit pull request to this fork to address any issue.
 10. Once all issues have been addressed, the repository will be published on [NeuroLibre website](http://neurolibre.conp.ca), and associated with a unique URL that can be shared publically.
  
