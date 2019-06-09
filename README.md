@@ -1,4 +1,4 @@
-![https://conp-pcno.github.io/images/neurolibre-icon-red.png] **WARNING** the neurolibre is at an alpha stage. Our submission and review process is under construction, and the production servers hosting notebooks are still not functioning at normal capacity. Please be patient, or come back in a few months for the first stable release of the platform.
+![NeuroLibre logo](https://conp-pcno.github.io/images/neurolibre-icon-red.png) **WARNING** the neurolibre is at an alpha stage. Our submission and review process is under construction, and the production servers hosting notebooks are still not functioning at normal capacity. Please be patient, or come back in a few months for the first stable release of the platform.
 
 # What is NeuroLibre?
 
