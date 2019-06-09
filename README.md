@@ -11,7 +11,7 @@ These workshops notebooks are typically expected to use less than 100 GB, and ru
 
 # How are NeuroLibre submissions reviewed?
 
-Submissions are not reviewed in the sense of a traditional peer-reviewed publication. The NeuroLibre team does check that the notebooks run correctly, and also checks how much compute time and data storage are required. They also check that the submission fits one of the two tracks above. NeuroLibre commits to provide computational resources for free, yet this investment needs to benefit the Open NeuroScience community. The NeuroLibre team reserves the right of rejecting a submission if the content of the notebook is judged to fall outside Neuroscience, requires excessive resources for the proposed scope of work, or is of obvious insufficient quality.
+Submissions are not reviewed in the sense of a traditional peer-reviewed publication, but notebooks do undergo a technical review. The NeuroLibre team checks that the notebooks fit one of the two tracks above, run correctly, and that the text and code are readable. We also check how much compute time and data storage are required. NeuroLibre commits to provide computational resources for free, yet this investment must benefit substantially the Open NeuroScience community. The Neurolibre team reserves the right of rejecting a submission if the content of the notebook is judged to fall outside Neuroscience, requires excessive resources for the proposed scope of work, or if the code or text is of unsufficient quality. Note that NeuroLibre purely reviews the technical aspects of the notebooks, and not the scientific content. As such, a NeuroLibre review complements, rather than replaces, the reviews offered by traditional scientific journals.
 
 # How to submit?
 
@@ -20,11 +20,11 @@ Submissions are not reviewed in the sense of a traditional peer-reviewed publica
 3. Add a requirement file containing all your dependencies
 4. Add a data_requirement file containing the data dependencies if needed.
 5. Go to https://binder.conp.cloud.
-6. Fill in the repository name and save the given URL. This will be used to share your binder notebooks with others.
-7. Click on upload and wait for the build. If your notebooks are working, you are ready to publish on the NeuroLibre website!
-8. Create an issue on this repository, using the "submission" template, and fill in all the information. 
-9. Our team will fork your repository on https://github.com/neurolibre. We will test that everything is working, and contact you using your github handle for any issue we identify. The issues will be open on our fork of the repo, and you will be expected to submit a pull request to this fork to address any issue.
-10. Once all issues have been addressed, the repository will be published on the [NeuroLibre website](http://neurolibre.conp.ca), and associated with a unique URL that can be shared publicly.
+6. Fill the repository name and save the given URL. This will be used to share your binder notebooks with others.
+7. Click on `launch` and wait for the build. If your notebooks are working, you are ready to publish on the neurolibre website!
+8. [Create an issue](https://github.com/neurolibre/submit/issues/new?assignees=pbellec&labels=&template=submission.md&title=%5BSUBMISSION%5D) on this repository, using the "submission" template, and fill in all the information. 
+9. Our team will fork your repository on https://github.com/neurolibre. We will test that everything is working, and contact you using your github handle for any issue we identify. The issues will be open on our fork of the repo, and you will be expected to submit pull request to this fork to address any issue.
+10. Once all issues have been addressed, the repository will be published on [NeuroLibre website](http://neurolibre.conp.ca), and associated with a unique URL that can be shared publically.
  
 # Examples of NeuroLibre-ready repositories
  * https://github.com/ltetrel/binder-tuto
