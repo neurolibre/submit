@@ -11,7 +11,7 @@ These workshops Notebooks are typically expected to use less than 100 GB, and ru
 
 # How are NeuroLibre submissions reviewed?
 
-They are not, in the sense of a traditional peer-reviewed publication. The NeuroLibre team does check that the notebooks run correctly, and also checks how much compute time and data storage are required. They also check that the submission fits one of the two tracks above. NeuroLibre commits to provide computational resources for free, yet this investment needs to benefit the Open NeuroScience community. The Neurolibre team reserves the right of rejecting a submission if the content of the notebook is judged to fall outside Neuroscience, requires excessive resources for the proposed scope of work, or is of obvious unsufficient quality.
+The NeuroLibre team checks that the notebooks fit one of the two tracks above, run correctly, and that the text and code are readable. We also check how much compute time and data storage are required. NeuroLibre commits to provide computational resources for free, yet this investment must benefit substantially the Open NeuroScience community. The Neurolibre team reserves the right of rejecting a submission if the content of the notebook is judged to fall outside Neuroscience, requires excessive resources for the proposed scope of work, or if the code or text is of unsufficient quality. Note that NeuroLibre purely reviews the technical aspects of the notebooks, and not the scientific content. As such, a NeuroLibre review complements, rather than replaces, the reviews offered by traditional scientific journals.
 
 # How to submit?
 
