@@ -1,3 +1,5 @@
+![https://conp-pcno.github.io/images/neurolibre-icon-red.png] **WARNING** the neurolibre is at an alpha stage. Our submission and review process is under construction, and the production servers hosting notebooks are still not functioning at normal capacity. Please be patient, or come back in a few months for the first stable release of the platform.
+
 # What is NeuroLibre?
 
 NeuroLibre is a curated repository of interactive neuroscience notebooks, seamlessly integrating data, text, code and figures. Notebooks can be freely modified and re-executed through the web, offering a fully reproducible, “libre” path from data to figures. NeuroLibre is powered by the Binder project with computational resources provided by [CONP](http://conp.ca/), [CBRAIN](http://mcin.ca/technology/cbrain/), and [Compute Canada]().
