@@ -18,14 +18,14 @@ Submissions are not reviewed in the sense of a traditional peer-reviewed publica
 1. Create a public repository on github which will hold the files
 2. Write a notebook `.ipynb` containing all your work
 3. Create a `binder` folder which will contain all the dependencies :
- * A [requirement file](https://mybinder.readthedocs.io/en/latest/config_files.html#requirements-txt-install-a-python-environment) containing all your dependencies
- * A [data_requirement](https://github.com/SIMEXP/Repo2Data) file containing the data dependencies if needed.
-5. Go to https://binder.conp.cloud.
-6. Fill the repository name and save the given URL. This will be used to share your binder notebooks with others.
-7. Click on `launch` and wait for the build. If your notebooks are working, you are ready to publish on the neurolibre website!
-8. [Create an issue](https://github.com/neurolibre/submit/issues/new?assignees=pbellec&labels=&template=submission.md&title=%5BSUBMISSION%5D) on this repository, using the "submission" template, and fill in all the information. 
-9. Our team will fork your repository on https://github.com/neurolibre. We will test that everything is working, and contact you using your github handle for any issue we identify. The issues will be open on our fork of the repo, and you will be expected to submit pull request to this fork to address any issue.
-10. Once all issues have been addressed, the repository will be published on [NeuroLibre website](http://neurolibre.conp.ca), and associated with a unique URL that can be shared publically.
+  * A [requirement file](https://mybinder.readthedocs.io/en/latest/config_files.html#requirements-txt-install-a-python-environment) containing all your dependencies
+  * A [data_requirement](https://github.com/SIMEXP/Repo2Data) file containing the data dependencies if needed.
+4. Go to https://binder.conp.cloud.
+5. Fill the repository name and save the given URL. This will be used to share your binder notebooks with others.
+6. Click on `launch` and wait for the build. If your notebooks are working, you are ready to publish on the neurolibre website!
+7. [Create an issue](https://github.com/neurolibre/submit/issues/new?assignees=pbellec&labels=&template=submission.md&title=%5BSUBMISSION%5D) on this repository, using the "submission" template, and fill in all the information. 
+8. Our team will fork your repository on https://github.com/neurolibre. We will test that everything is working, and contact you using your github handle for any issue we identify. The issues will be open on our fork of the repo, and you will be expected to submit pull request to this fork to address any issue.
+9. Once all issues have been addressed, the repository will be published on [NeuroLibre website](http://neurolibre.conp.ca), and associated with a unique URL that can be shared publically.
  
 # Examples of NeuroLibre-ready repositories
  * https://github.com/ltetrel/binder-tuto
