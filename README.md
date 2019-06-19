@@ -18,8 +18,8 @@ Submissions are not reviewed in the sense of a traditional peer-reviewed publica
 1. Create a public repository on github which will hold the files
 2. Write a notebook `.ipynb` containing all your work
 3. Create a `binder` folder which will contain all the dependencies :
-  * A [requirement file](https://mybinder.readthedocs.io/en/latest/config_files.html#requirements-txt-install-a-python-environment) containing all your dependencies
-  * A [data_requirement](https://github.com/SIMEXP/Repo2Data) file containing the data dependencies if needed.
+> * A [requirement file](https://mybinder.readthedocs.io/en/latest/config_files.html#requirements-txt-install-a-python-environment) containing all your dependencies
+> * A [data_requirement](https://github.com/SIMEXP/Repo2Data) file containing the data dependencies if needed.
 4. Go to https://binder.conp.cloud.
 5. Fill the repository name and save the given URL. This will be used to share your binder notebooks with others.
 6. Click on `launch` and wait for the build. If your notebooks are working, you are ready to publish on the neurolibre website!
