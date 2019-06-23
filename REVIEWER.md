@@ -17,7 +17,7 @@ Note that you are not expected to review code libraries shipped with the noteboo
  * are there automated tests implemented?
 
 # Scientific review
-Your are not expected to review the scientific soundness of the work. This step is typically handled by traditional peer-review in scientific journals. 
+Your are not expected to review the scientific soundness of the work. This step is typically handled by traditional peer-review in scientific journals. However, if a work appears to be of obvious unsufficient quality, we encourage you to contact the editors privately and suggest that the submission be withdrawn.
 
 # How to interact with authors
 We encourage you to open as many issues as necessary to reach a high quality for the submission. For this purpose, you will use the github issue tracking system on the repository associated with the submission.  Please assign the issues to the lead author of the submission, who will submit a pull request in order to address your comments. Review the pull request and merge it if you think it is appropriate. You can also submit a pull request yourself and ask the author to approve the changes. Please remain courteous and constructive in your feedback, and follow our [code of conduct](COC.md).
