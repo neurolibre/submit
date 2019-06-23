@@ -27,7 +27,7 @@ Submissions are not reviewed in the sense of a traditional peer-reviewed publica
 8. Our team will fork your repository on https://github.com/neurolibre. We will test that everything is working, and contact you using your github handle for any issue we identify. The issues will be open on our fork of the repo, and you will be expected to submit pull request to this fork to address any issue.
 9. Once all issues have been addressed, the repository will be published on [NeuroLibre website](http://neurolibre.conp.ca), and associated with a unique URL that can be shared publically.
  
-Note that we expect all our community members to remain courteous and constructive at all times. Please read our [code of conduct](COC.md) for more information. You can contact editors privately through emails, or on the [mattermost brainhack forum](https://mattermost.brainhack.org).
+Note that we expect all our community members to remain courteous and constructive at all times. Please read our [code of conduct](COC.md) for more information. You can contact editors privately through emails, or on the [mattermost brainhack forum](https://mattermost.brainhack.org) if you have any question, comment or complaint.
 
 # Examples of NeuroLibre-ready repositories
  * https://github.com/ltetrel/binder-tuto[
