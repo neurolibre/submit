@@ -30,5 +30,5 @@ Submissions are not reviewed in the sense of a traditional peer-reviewed publica
 Note that we expect all our community members to remain courteous and constructive at all times. Please read our [code of conduct](COC.md) for more information. You can contact editors privately through emails, or on the [mattermost brainhack forum](https://mattermost.brainhack.org) if you have any question, comment or complaint.
 
 # Examples of NeuroLibre-ready repositories
- * https://github.com/ltetrel/binder-tuto[
+ * https://github.com/ltetrel/binder-tuto
  * https://github.com/ltetrel/repo2data-caching-s3
