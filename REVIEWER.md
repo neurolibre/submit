@@ -35,6 +35,6 @@ As a reviewer, conflict of interests are your present or previous association wi
 If you have a conflict of interest with a submission, you should disclose the specific reason to the submissions’ editor. This may lead to you not being able to review the submission, but some conflicts may be recorded and then waived, and if you think you are able to make an impartial assessment of the work, you should request that the conflict be waived. For example, if you and a submitter were two of 2000 authors of a high energy physics paper but did not actually collaborate. Or if you and a submitter worked together 6 years ago, but due to delays in the publishing industry, a paper from that collaboration with both of you as authors was published 2 year ago. Or if you and a submitter are both employed by the same very large organization but in different units without any knowledge of each other.
 
 Declaring actual, perceived, and potential conflicts of interest is required under professional ethics. If in doubt: ask the editors.
-
-Some material in this section was adapted from the "Journal of Open Source Software" [reviewing guidelines](https://github.com/openjournals/joss/blob/master/docs/reviewer_guidelines.md).
+# Attribution
+Some material in this section was adapted from the "Journal of Open Source Software" [reviewing guidelines](https://github.com/openjournals/joss/blob/master/docs/reviewer_guidelines.md), released under an MIT license.
 
