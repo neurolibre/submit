@@ -1,20 +1,21 @@
 As a NeuroLibre reviewer, you are responsible for the technical quality of the resources available for our community. Neurolibre welcome submissions along two tracks of neuroscience-related material: (1) tutorials, (2) paper companions. Prior to review, an editor establishes that the submission qualifies in principles, and an administrator has made the resource available for the neurolibre binder, so you can review the material directly on our portal (the link is at the top of the `README.md` file). Now your role is to ensure the submitted materials take full advantage of the notebook format, prior to final publication. Specific criteria for review are listed below.
 
 # Technical review Criteria
-Examples of high quality tutorials can be found in the scikit-learn documentation, for example this one on [cross-validation](https://scikit-learn.org/stable/modules/cross_validation.html). Examples of high quality article companions can be found as collab links in the article [building blocks of interpretability](https://distill.pub/2018/building-blocks/). Specific areas for review include:
+Examples of high quality tutorials can be found in the scikit-learn documentation, for example this one on [cross-validation](https://scikit-learn.org/stable/modules/cross_validation.html). Examples of high quality article companions can be found as collab links in the article [building blocks of interpretability](https://colab.research.google.com/github/tensorflow/lucid/blob/master/notebooks/building-blocks/AttrChannel.ipynb). Specific areas for review include:
  * Is the text clear and easy to read? In particular, are the sentences free of jargon?
  * Are the figures properly annotated and help understand the flow of the notebook?
  * Are the notebooks of appropriate lengths?
  * Are the notebooks split into logical sections? Could the sections be split or merged between notebooks?
  * For paper companions, is it possible to link each section of the notebook to a figure, or a section of the paper? 
  * Are the code cells short and readable? 
- * Should portions of the code be refactored into a library? 
+ * Are they some bugs that prevents the good usage of the notebooks
 
 # Code review
 Note that you are not expected to review code libraries shipped with the notebooks. This work is better suited for other publication venues, such as the [Journal of Open Source Software](https://joss.theoj.org/). Minimal feedback is encouraged in the following areas:
  * is the code organized into logical folder structure?
  * is the code documented?
  * are there automated tests implemented?
+ * should portions of the code be refactored into a library?
 
 # Scientific review
 Your are not expected to review the scientific soundness of the work. This step is typically handled by traditional peer-review in scientific journals. However, if a work appears to be of obvious unsufficient quality, we encourage you to contact the editors privately and suggest that the submission be withdrawn.
