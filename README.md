@@ -7,7 +7,9 @@
 NeuroLibre currently welcomes submissions along two tracks:
  - **Tutorial** notebooks related to a workshop in the neuroscience field.
  - **Companion** notebooks for articles posted as preprints in the neuroscience field.
-These workshops notebooks are typically expected to use less than 100 GB, and run in less of an hour, although exceptions may be granted on a case by case basis. 
+These workshops notebooks are typically expected to use less than 100 GB disk space, and run in less of an hour, although exceptions may be granted on a case by case basis. 
+
+Each user has 1CPU (up to 2 depending on the server workload) and 4GB RAM  (up to 6GB depending on the server workload), so your notebook is expected to run under this configuration. If you need more ressources for a limited period, you can contact an administrator.
 
 # How are NeuroLibre submissions reviewed?
 
