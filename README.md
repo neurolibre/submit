@@ -34,4 +34,7 @@ Note that we expect all our community members to remain courteous and constructi
 # Examples of NeuroLibre-ready repositories
  * https://github.com/ltetrel/binder-tuto
  * https://github.com/ltetrel/repo2data-caching-s3
+ * https://github.com/ltetrel/binder-bash-intro
+ * https://github.com/binder-examples/octave
+ * https://github.com/ltetrel/binder-cpp
 –
