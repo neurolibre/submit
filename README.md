@@ -1,19 +1,18 @@
-<img align="left" src="https://conp-pcno.github.io/images/neurolibre-icon-red.png"> NeuroLibre is a curated repository of interactive neuroscience notebooks that seamlessly integrates data, text, code and figures. Notebooks can be freely modified and re-executed through the web, offering a fully reproducible (“libre”) path from data to figures. NeuroLibre is powered by the [Binder](https://gke.mybinder.org/) project with computational resources provided by the [Canadian Open Neuroscience Platform (CONP)](http://conp.ca/), [CBRAIN](http://mcin.ca/technology/cbrain/), and [Compute Canada](https://www.computecanada.ca/).
+<img align="left" src="https://conp-pcno.github.io/images/neurolibre-icon-red.png"> NeuroLibre is a curated repository of interactive neuroscience notebooks that seamlessly integrates data, text, code and figures. Notebooks can be freely modified and re-executed through the web, offering a fully reproducible, “libre” path from data to figures. NeuroLibre is powered by the [Binder](https://gke.mybinder.org/) project with computational resources provided by the [Canadian Open Neuroscience Platform (CONP)](http://conp.ca/), [CBRAIN](http://mcin.ca/technology/cbrain/), and [Compute Canada](https://www.computecanada.ca/).
  
-**WARNING:** NeuroLibre is currently at an alpha stage of development. Our submission and review process is a work in progress, and the production servers are not presently functioning at normal capacity. Please be patient, or come back in a few months for the first stable release of the platform.
+**WARNING:** NeuroLibre is currently at an beta stage of development. Our submission and review process is a work in progress, and the production servers are not presently functioning at normal capacity. Please be patient, or come back in a few months for the first stable release of the platform.
 
 # What can be published on NeuroLibre?
 
 NeuroLibre currently welcomes submissions along two tracks:
  - **Tutorial** notebooks related to a workshop in the neuroscience field.
  - **Companion** notebooks for articles posted as preprints in the neuroscience field.
-These workshops notebooks are typically expected to use less than 100 GB disk space, and run in less of an hour, although exceptions may be granted on a case by case basis. 
-
-Each user has 1CPU (up to 2 depending on the server workload) and 4GB RAM  (up to 6GB depending on the server workload), so your notebook is expected to run under this configuration. If you need more ressources for a limited period, you can contact an administrator.
+ 
+These notebooks are expected to use less than 100 GB disk space, and run in less of an hour, although exceptions may be granted on a case by case basis. Each user has 1CPU (up to 2 depending on the server workload) and 4GB RAM  (up to 6GB depending on the server workload), so your notebooks should be able to run under this configuration. If you need more ressources for a limited period, please open an issue on this repository.
 
 # How are NeuroLibre submissions reviewed?
 
-Submissions are not reviewed in the sense of a traditional peer-reviewed publication, but notebooks do undergo a technical review. The NeuroLibre team checks that the notebooks fit one of the two tracks above, run correctly, and that the text and code are readable. We also check how much compute time and data storage are required. NeuroLibre commits to provide computational resources for free, yet this investment must benefit substantially the open neuroscience community. The Neurolibre team reserves the right of rejecting a submission if the content of the notebook is judged to fall outside neuroscience, requires excessive resources for the proposed scope of work, or if the code or text is of unsufficient quality. Note that NeuroLibre purely reviews the technical aspects of the notebooks, and not the scientific content. As such, a NeuroLibre review complements, rather than replaces, the peer reviews offered by traditional scientific journals. Please read our [review guidelines](REVIEWER.md) for more information.
+Submissions are not reviewed in the sense of a traditional scientific publications, but notebooks do undergo a technical review. The NeuroLibre team checks that the notebooks fit one of the two tracks above, run correctly, and that the text and code are readable. We also check how much compute time and data storage are required. NeuroLibre commits to provide computational resources for free, yet this investment must benefit substantially the open neuroscience community. The Neurolibre team reserves the right of rejecting a submission if the content of the notebook is judged to fall outside the neuroscience field, requires excessive resources for the proposed scope of work, or if the code or text are of unsufficient quality. Note that NeuroLibre purely reviews the technical aspects of the notebooks, and not the scientific content. As such, a NeuroLibre review complements, rather than replaces, the peer reviews offered by traditional scientific journals. Please read our [review guidelines](REVIEWER.md) for more information.
 
 # How to submit?
 
@@ -32,6 +31,7 @@ Submissions are not reviewed in the sense of a traditional peer-reviewed publica
 Note that we expect all our community members to remain courteous and constructive at all times. Please read our [code of conduct](COC.md) for more information. You can contact editors privately through emails, or on the [mattermost brainhack forum](https://mattermost.brainhack.org) if you have any question, comment or complaint.
 
 # Examples of NeuroLibre-ready repositories
+ * https://github.com/neurolibre/boutiques-tutorial
  * https://github.com/ltetrel/binder-tuto
  * https://github.com/ltetrel/repo2data-caching-s3
  * https://github.com/ltetrel/binder-bash-intro
