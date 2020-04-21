@@ -16,8 +16,14 @@ _e.g. `binder tutorial`_
 **Authors:** 
 _e.g. `Loic Tetrel`_
 
-**Short layman description:**
-_e.g. `A simple intro to binder`, 15 words max_
+**Short layman description per notebook/chapter:**
+
+_e.g. `1. A simple intro to binder`, 50 words max
+
+_e.g. `2. A simple intro to binder`, 50 words max
+...
+
+_e.g. `nth. simple intro to binder`, 50 words max
 
 **Description:** 
 _e.g. `How and why use the binder platform to share notebooks`, 50 words max_
