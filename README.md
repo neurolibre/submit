@@ -19,7 +19,7 @@ Submissions are not reviewed in the sense of a traditional scientific publicatio
 1. Create a public repository on [GitHub](https://github.com/) which will host the files.
 2. Write a [Jupyter](https://jupyter.org/) notebook (`.ipynb`) containing all your work.
 3. Create a `binder` folder which will contain all the dependencies :
-> * A [requirements file](https://mybinder.readthedocs.io/en/latest/config_files.html#requirements-txt-install-a-python-environment) containing all the software dependencies.
+> * A [requirements file](https://mybinder.readthedocs.io/en/latest/using/config_files.html#requirements-txt-install-a-python-environment) containing all the software dependencies.
 > * A [data_requirement](https://github.com/SIMEXP/Repo2Data) file containing the data dependencies if needed.
 4. Go to https://binder.conp.cloud.
 5. Fill the repository name and save the given URL. This will be used to share your binder notebooks with others.
